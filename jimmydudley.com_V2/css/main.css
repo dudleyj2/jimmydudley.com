@@ -3781,6 +3781,14 @@ input[type=range] {
 	color: #111
 }
 
+.abbey {
+	color: #555B68
+}
+
+.bright-gray {
+	color: #57595D
+}
+
 .gray,
 .mid-gray {
 	color: #aaa
@@ -3791,8 +3799,20 @@ input[type=range] {
 	color: #ddd
 }
 
+.putty {
+	color: #E3D985
+}
+
+.burnt-sienna {
+	color: #E57A44
+}
+
 .white {
 	color: #fff
+}
+
+.copper {
+	color: #7A2F09
 }
 
 .aqua {
@@ -3857,13 +3877,41 @@ input[type=range] {
 	background-color: #aaa
 }
 
+.bg-neptune {
+	background-color: #85BDBF
+}
+
+.neptune {
+	color: #85BDBF
+}
+
 .bg-silver,
 .bg-light-gray {
 	background-color: #ddd
 }
 
+.bg-mondo {
+	background-color: #4F4A41
+}
+
+.bg-coffee {
+	background-color: #6E6658
+}
+
 .bg-white {
 	background-color: #fff
+}
+
+.bg-cascade {
+	background-color: #91ADA5
+}
+
+.bg-contessa {
+	background-color: #BF7561
+}
+
+.contessa {
+	color: #BF7561
 }
 
 .bg-aqua {
@@ -4342,6 +4390,42 @@ a .circle:hover {
 
 .bg-splash-gray {
 	background-color: #f5f8fa
+}
+
+.bg-monte-carlo {
+	background-color: #CCFFFF
+}
+
+.bg-nordic {
+	background-color: #112D32
+}
+
+.bg-william {
+	background-color: #385F71
+}
+
+.bg-rhino {
+	background-color: #2b4162
+}
+
+.bg-tasman {
+	background-color: #CAD2C5
+}
+
+.bg-battleship-gray {
+	background-color: #869D7A
+}
+
+.bg-gum-leaf {
+	background-color: #A7CDBD
+}
+
+.bg-cararra {
+	background-color: #EBEDE8
+}
+
+.old-brick {
+	color: #8C271E
 }
 
 .nav-button {
