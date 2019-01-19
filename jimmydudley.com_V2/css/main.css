@@ -4050,6 +4050,11 @@ input[type=range] {
 	border-color: #fff
 }
 
+.border-white-thick {
+	border-color: #ffffff;
+	border-width: 100px;
+}
+
 .border-darken-1 {
 	border-color: rgba(0, 0, 0, .0625)
 }
