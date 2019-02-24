@@ -4,7 +4,7 @@ To create my personal website, I pulled from a variety of sources.  Since I know
 
 ## Design and Layout
 
-My website was created using a few different libraries.  I imported the [jQuery](https://jquery.com/) javascript library into [main.js](https://github.com/dudleyj2/jimmydudley.com/blob/master/jimmydudley.com_V2/js/main.js).  Additionally, I used the [Font Awesome](http://fontawesome.io) library in my [main.css](https://github.com/dudleyj2/jimmydudley.com/blob/master/jimmydudley.com_V2/css/main.css) file for help in creating my design.
+My website was created using a few different libraries.  I imported the [jQuery](https://jquery.com/) javascript library into [main.js](https://github.com/dudleyj2/jimmydudley.com/blob/master/jimmydudley.com_V2/js/main.js).  Additionally, I used the [Font Awesome](http://fontawesome.io) library in my [main.css](https://github.com/dudleyj2/jimmydudley.com/blob/master/css/main.css) file for help in creating my design.
 
 ## Web Hosting
 
@@ -14,10 +14,10 @@ I recommend registering your domain name through Route 53 on AWS.  I went the ex
 
 ## Built With
 
-* HTML
+* Amazon Web Services
 * CSS
+* HTML
 * JavaScript
-* AWS
 
 ## Author
 
