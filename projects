@@ -56,15 +56,42 @@
     <main class="container block p3">
         <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line">
             <div class="col sm-col-12 px1">
-                <h2 class="mt0 mb0">My Website</h2>
-                <p class="info">I wanted to create a portfolio-style website to increase my experience with 
-                    with web development.  An overview of the project can be found 
-                    <a href="https://s3.us-east-2.amazonaws.com/jimmydudley.com/jimmydudley.com.pdf" target="_blank">here</a> and 
-                    a link to the GitHub repository can be found 
-                    <a href="https://github.com/dudleyj2/jimmydudley.com/" target="_blank">here</a>.
-                </p>
+                <h2 class="mt0 mb0">Web Development</h2>
+                <ul style="list-style-type:circle; padding-left:20px">
+                    <li>
+                        <a href="https://www.jimmydudley.com">
+                            My Personal Website
+                        </a>
+                        <ul style="list-style-type:square; padding-left:20px">
+                            <li>
+                                <p class="info">I wanted to create a portfolio-style website to increase my experience with 
+                                    with web development.  An overview of the project can be found 
+                                    <a href="https://s3.us-east-2.amazonaws.com/jimmydudley.com/jimmydudley.com.pdf" target="_blank">here</a> and 
+                                    a link to the GitHub repository can be found 
+                                    <a href="https://github.com/dudleyj2/jimmydudley.com/" target="_blank">here</a>.
+                                </p>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="https://giesgroups.illinois.edu/dsp/home/">
+                            University of Illinois - Delta Sigma Pi Homepage
+                        </a>
+                        <ul style="list-style-type:square; padding-left:20px">
+                            <li>
+                                <p class="info">I helped my brother to create a new website for his business fraternity.  The static site 
+                                    utilizes pre-made CSS features with <a href="https://getbootstrap.com/">Bootstrap</a>. 
+                                    An overview of the project can be found. The site is hosted and set up with <a href="https://www.campusgroups.com/product/home/">Campus Groups</a>, 
+                                    a tool for organizing student organiztion web sites. This <a href="https://github.com/dudleyj2/UIUC_DSP/" target="_blank">GitHub repository</a> 
+                                    contains the HTML files that I created for the site.
+                                </p>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
             </div>
         </div>
+
         <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line">
             <div class="col sm-col-12 px1">
                 <h2 class="mt0 mb0">Python Projects</h2>
