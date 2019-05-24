@@ -63,10 +63,10 @@
             <div class="col sm-col-9 px1">
                 <a href="https://www.python.org/" target="_blank" name="python"><h2 class="mt0 mb0">Python
                 </h2></a>
-                <p class="info"><b>Scripting and Web Application Development</b></p>
+                <p class="info"><b>Event-Driven ETL, Testing Automation, and Web Application Development</b></p>
                 <ul style="list-style-type:circle; padding-left:20px">
-                    <li>Most of my experience with Python comes from using the web application frameworks Django and Flask. With Django, I was able to create a mock app store of 4,000 apps connected to a database that incorporated user registration, login, and admin pages. I used flask to create a web application for improved user interaction with AWS S3.</li>
-                    <li>Directly within AWS, I have used python for creating and testing Lambda Functions. I also used python to automate the comparison of datatypes and values across multiple databases for data migration testing.</li>
+                    <li>Python is my most experienced language in the professional setting. I’ve used python with my team at Discover to create an event-driven big data pipeline that has successfully migrated multiple petabytes worth of data across various sources and destinations.</li>
+                    <li>Additionally, I used Python Flask as part of my internship at Discover to create a real-time data catalog web application of S3 events. This was designed with AWS Lambda, DynamoDB, API Gateway, and EC2.</li>
                 </ul>
             </div>
         </div>
@@ -81,8 +81,58 @@
                 </h2></a>
                 <p class="info"><b>Cloud Computing</b></p>
                 <ul style="list-style-type:circle; padding-left:20px">
-                    <li>I learned how to use numerous tools in AWS through my internship at Discover. I configured a back end for cataloging S3 event metadata to DynamoDB with Lambda functions and I converted that data into a REST API with Lambda Functions and API Gateway. The web application that allows users to access this information is hosted in a Linux-based EC2 instance.</li>
-                    <li>Additionally, I used Route53 to purchase and route the domain name for my website and Athena for database querying.</li>
+                    <li>I learned how to use numerous tools in AWS through my internship and professional experience at Discover and use it to host my professional website.</li>
+                    <li>I'm currently working towards getting my associate developer and architect certifications.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line ">
+            <div class="col sm-col-3 px1 mb2">
+                <a href="https://git-scm.com/" target="_blank">
+                    <img src="images/git.jpg" alt="" class="lazyload">
+                </a>
+            </div>
+            <div class="col sm-col-9 px1">
+                <a href="https://git-scm.com/" target="_blank" name="git">
+                    <h2 class="mt0 mb0">Git</h2>
+                </a>
+                <p class="info"><b>Version Control</b></p>
+                <ul style="list-style-type:circle; padding-left:20px">
+                    <li>Git has been my primary form of version control and source code management. I credit all of my Git knowledge to
+                        <a href="https://git-scm.com/book/en/v2" target="_blank">Pro Git
+                        </a>. It was recomended to me by a highly regarded colleague and I consider it an invaluable source of knowledge for all software engineers.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line ">
+            <div class="col sm-col-3 px1 mb2">
+                <a href="https://jenkins.io/" target="_blank">
+                    <img src="images/jenkins.png" alt="" class="lazyload">
+                </a>
+            </div>
+            <div class="col sm-col-9 px1">
+                <a href="https://jenkins.io/" target="_blank" name="jenkins">
+                    <h2 class="mt0 mb0">Jenkins</h2>
+                </a>
+                <p class="info"><b>Continuous Integration/Continuous Delivery</b></p>
+                <ul style="list-style-type:circle; padding-left:20px">
+                    <li>I’ve primarily used Jenkins to automate unit testing, linting checks, and packaging of various python products at Discover. I configured Jenkins pipelines that build automatically on GitHub pull requests and allow for merging of feature branches only after passing testing and building stages. This has enhanced the speed and accuracy in the way that we develop new features.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="mxn2 clearfix mb2 py3 border-white">
+            <div class="col sm-col-3 px1 mb2">
+                <a href="https://www.terraform.io/" target="_blank">
+                    <img src="images/terraform.jpg" alt="" class="lazyload">
+                </a>
+            </div>
+            <div class="col sm-col-9 px1">
+                <a href="https://www.terraform.io/" target="_blank" name="terraform">
+                    <h2 class="mt0 mb0">Terraform</h2>
+                </a>
+                <p class="info"><b>Infrastructure as Code</b></p>
+                <ul style="list-style-type:circle; padding-left:20px">
+                    <li>I've used Terraform in the professional setting to provision and deploy a wide range of services and environments in AWS. It is one of my newer skills and I've enjoyed my work with it so far.</li>
                 </ul>
             </div>
         </div>
@@ -99,22 +149,6 @@
                 <p class="info"><b>Object-Oriented Programming</b></p>
                 <ul style="list-style-type:circle; padding-left:20px">
                     <li>The curriculum at Miami University is based in Java development. After having taken three semesters of Java-oriented classes and working as a teaching assistant, Java is the language I am most experienced in. Data structure implementation, projects, and labs were all in Java. As a TA, I developed JUnit classes to grade students' work. Additionally, I have used Ant Build scripts for deploying web applications. My primary IDE for Java development is Eclipse.</li>
-                </ul>
-            </div>
-        </div>
-        <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line ">
-            <div class="col sm-col-3 px1 mb2">
-                <a href="https://git-scm.com/" target="_blank">
-                    <img src="images/git.jpg" alt="" class="lazyload">
-                </a>
-            </div>
-            <div class="col sm-col-9 px1">
-                <a href="https://git-scm.com/" target="_blank" name="git">
-                    <h2 class="mt0 mb0">Git</h2>
-                </a>
-                <p class="info"><b>Version Control</b></p>
-                <ul style="list-style-type:circle; padding-left:20px">
-                    <li>Git has been my primary form of version control both in school and at work. I have experience performing all of the most common git commands in Terminal on MacOS and with GitBash on Windows. I have used Git for documentation of projects related to user stories in Jira, Rally, and Trello.</li>
                 </ul>
             </div>
         </div>
@@ -163,22 +197,6 @@
                 <p class="info"><b>Functional Programming</b></p>
                 <ul style="list-style-type:circle; padding-left:20px">
                     <li>The primary statistical data analysis language at Miami University is R. With R, I have performed statistical tests, deployed a Shiny application on job availability data, used numerous functions, and created multiple reports with RMarkdown. All development took place using the RStudio IDE.</li>
-                </ul>
-            </div>
-        </div>
-        <div class="mxn2 clearfix mb2 py3 border-white">
-            <div class="col sm-col-3 px1 mb2">
-                <a href="https://www.terraform.io/" target="_blank">
-                    <img src="images/terraform.jpg" alt="" class="lazyload">
-                </a>
-            </div>
-            <div class="col sm-col-9 px1">
-                <a href="https://www.terraform.io/" target="_blank" name="terraform">
-                    <h2 class="mt0 mb0">Terraform</h2>
-                </a>
-                <p class="info"><b>Infrastructure as Code</b></p>
-                <ul style="list-style-type:circle; padding-left:20px">
-                    <li>Terraform and infrastructure as code is my newest skills. I used it for deploying web applications to EC2 instances on Amazon Web Services.</li>
                 </ul>
             </div>
         </div>
