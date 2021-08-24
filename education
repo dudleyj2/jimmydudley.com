@@ -49,45 +49,46 @@
     <header class="bg-gum-leaf px3 py3 border-bottom border-white">
         <div class="container">
             <div class="clearfix">
-                <a href="https://www.jimmydudley.com/projects/">
-                    <h1 class="page-title mt0 mb1">Personal Projects</h1>
-                </a>
+                <h1 class="page-title mt0 mb1">Education</h1>
             </div>
         </div>
     </header>
     <main class="container block p3">
-        <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line">
+        <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line ">
+            <div class="col sm-col-3 px1 mb2">
+                <a href="https://www.miami.miamioh.edu" target="_blank">
+                    <img src="images/miami.jpg" alt="" class="lazyload">
+                </a>
+            </div>
             <div class="col sm-col-9 px1">
-                <h2 class="mt0 mb0">The Monty Hall Problem</h2>
-                <p class="info">I'm in the process of creating a number of personal projects to increase my knowledge of python.  This uses python to help simulate
-                    and explain the logic behing the <a href="https://en.wikipedia.org/wiki/Monty_Hall_problem">Monty Hall Problem</a>.
-                </p>
+                <a href="https://www.miami.miamioh.edu" target="_blank" name="miami"><h2 class="mt0 mb0">Miami University | Oxford, Ohio
+                </h2></a>
+                <p class="info"><b>B.S. in Mathematics &amp Statistics &bull; <i>May 2018</i></b></p>
                 <ul style="list-style-type:circle; padding-left:20px">
-                    <li><a href="https://s3.us-east-2.amazonaws.com/jimmydudley.com/monty_hall_proof.pdf" target="_blank">
-                            Monty Hall Problem - Proof Using Python
-                        </a>
-                    </li>
+                    <li>Minors in Computer Science and German Language</li>
+                    <li>Recipient of $135,000+ in academic scholarship awards</li>
+                    <li>Elected to Miami University Scholar Leaders LLC</li>
+                    <li>University Honors Program</li>
+                    <li>President's List</li>
+                    <li>3.5/4.0 Cumulative GPA</li>
                 </ul>
             </div>
         </div>
         <div class="mxn2 clearfix mb2 py3 border-white">
+            <div class="col sm-col-3 px1 mb2">
+                <a href="http://miamioh.edu/global-initiatives/luxembourg/index.html" target="_blank">
+                    <img src="images/mudec.jpg" alt="" class="lazyload">
+                </a>
+            </div>
             <div class="col sm-col-9 px1">
-                <h2 class="mt0 mb0">Data Analysis Projects</h2>
-                <p class="info">Here's a collection of data analysis projects that I worked on for my senior capstone.
-                </p>
+                <a href="http://miamioh.edu/global-initiatives/luxembourg/index.html" target="_blank" name="mudex"><h2 class="mt0 mb0">
+                        Miami University Dolibois European Center
+                    </h2></a>
+                <p class="info"><b>Study Abroad - Differdange, Luxembourg &bull; <i>Spring 2016</i></b></p>
                 <ul style="list-style-type:circle; padding-left:20px">
-                    <li><a href="https://s3.us-east-2.amazonaws.com/jimmydudley.com/Knollman-Porter+Team%236+Final+Report.pdf" target="_blank">
-                            Gender Comparison of Concussion Knowledge Among Athletic Participation Levels
-                        </a>
-                    </li>
-                    <li><a href="https://s3.us-east-2.amazonaws.com/jimmydudley.com/CurmeTeam2.pdf" target="_blank">
-                            Investigation of Oxford Town and Student Relationships
-                        </a>
-                    </li>
-                    <li><a href="https://s3.us-east-2.amazonaws.com/jimmydudley.com/Lee+Team+4+-+Report.pdf" target="_blank">
-                            Effects of Aloe and pH Treatment on <i>Candida Albicans</i>
-                        </a>
-                    </li>
+                    <li>Received the <u><i>Dean's Honorary Commendation for Academic Performance and Contributions to the Community</i></u></li>
+                    <li>Volunteered as a German-English translator at a Syrian refugee center and organized a successful clothing drive for refugees</li>
+                    <li>Took courses in European music history, 20th century European architecture, and advanced German language</li>
                 </ul>
             </div>
         </div>
