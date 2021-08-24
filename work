@@ -63,15 +63,22 @@
             <div class="col sm-col-9 px1">
                 <a href="https://www.discover.com" target="_blank" name="discover"><h2 class="mt0 mb0">Discover Financial Services
                 </h2></a>
-                <p class="info"><b>Associate Data Engineer &bull; <i> October 2018 - Present</i></b></p>
+                <p class="info"><b>Senior Software Engineer &bull; <i> October 2019 - Present</i></b></p>
                 <ul style="list-style-type:circle; padding-left:20px">
-                    <li>Continuing work on the Cloud Data Enablement Team, part of Advanced Analytics and Platform Capabilities</li>
+                    <li>Transformed and modernized data ingestion as a developer for the Cloud Data Fabric, a collection of cloud-native microservices providing metadata-driven automation, real-time ingestion/loading, and data governance</li>
+                    <li>Developed and co-architected features for the Universal Data Loader, a fully event-driven AWS application for transforming and loading data from AWS S3 into Snowflake</li>
+                    <li>Integrated multiple Jenkins CI/CD pipelines to automate test coverage, code linting, artifact publishing, and the building and deployment of Docker images to the OpenShift Container Platform</li>
+                    <li>Assisted campus recruitment programs by mentoring interns, serving as a guest panelist for recruitment days, and conducting technical and behavioral interviews</li<>
+                </ul>
+                <p class="info"><b>Associate Data Engineer &bull; <i> October 2018 - October 2019</i></b></p>
+                <ul style="list-style-type:circle; padding-left:20px">
+                    <li>Developed a python script used to validate 750 terabytes of data migration across Snowflake, Teradata, and S3</li>
+                    <li>Designed and implemented a front-end Kibana dashboard for monitoring success and progress of ETL transactions</li>
                 </ul>
                 <p class="info"><b>Data Engineering Intern &bull; <i> May 2018 - September 2018</i></b></p>
                 <ul style="list-style-type:circle; padding-left:20px">
                     <li>Worked in Agile software development as part of the Cloud Data Enablement Team</li>
                     <li>Utilized multiple front-end and back-end tools within Amazon Web Services to create and launch a Python Flask web application that allows for secure uploading from browser to S3 buckets, metadata cataloging and searching of active and inactive S3 files, and monitoring application traffic</li>
-                    <li>Developed and maintained a python script for validating data migration across Teradata and AWS Redshift</li>
                 </ul>
             </div>
         </div>
