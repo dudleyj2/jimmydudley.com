@@ -56,6 +56,23 @@
     <main class="container block p3">
         <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line ">
             <div class="col sm-col-3 px1 mb2">
+                <a href="https://illinois.edu/" target="_blank">
+                    <img src="images/uiuc.jpg" alt="" class="lazyload">
+                </a>
+            </div>
+            <div class="col sm-col-9 px1">
+                <a href="https://illinois.edu/" target="_blank" name="miami"><h2 class="mt0 mb0">University of Illinois | Urbana-Champaign, Illinois
+                </h2></a>
+                <p class="info"><b>Master of Computer Science &bull; <i>December 2021</i></b></p>
+                <ul style="list-style-type:circle; padding-left:20px">
+                    <li>4.0 Cumulative GPA</li>
+                    <li>Part-time graduate degree completed while working at Discover Financial Services</li>
+                    <li>Select Coursework: Applied Machine Learning, Data Mining, Cloud Computing Applications, Text Information Systems, Data Curation, Interactive Computer Graphics, and Scientific Visualization</li>
+                </ul>
+            </div>
+        </div>
+        <div class="mxn2 clearfix mb2 py3 border-bottom border-white circle-line ">
+            <div class="col sm-col-3 px1 mb2">
                 <a href="https://www.miami.miamioh.edu" target="_blank">
                     <img src="images/miami.jpg" alt="" class="lazyload">
                 </a>
